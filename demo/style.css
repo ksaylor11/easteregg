@@ -1,0 +1,12 @@
+.easter-egg-hidden {
+    display: none;
+}
+
+.easter-egg-show {
+    display: block;
+}
+
+#easter-egg {
+    height: 200px;
+    width: 200px;
+}
